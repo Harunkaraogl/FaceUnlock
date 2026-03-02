@@ -1,4 +1,3 @@
-# FaceUnlock
 <!-- TÜRKÇE / TURKISH -->
 <div align="center">
   <h1>🔆 FaceUnlock - Karanlıkta Yüz Tanıma İyileştiricisi</h1>
