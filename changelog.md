@@ -1,17 +1,15 @@
-## FaceUnlock v1.0 - İlk Sürüm / First Release 🎉
+## FaceUnlock v1.1 - Hata Düzeltme Sürümü 🐛🔧
 
 ### Türkçe
-- ✨ İlk kararlı sürüm
-- 🌙 Karanlık ortamda otomatik parlaklık artırma
-- ⚙️ Magisk Eylem butonu ile özelleştirilebilir ayarlar
-- 🔒 Sadece kilit ekranında çalışma
-- 🔋 Pil tasarrufu modunda otomatik devre dışı kalma
-- 🌍 Tüm cihazlarla uyumlu
+- ✅ **Eylem butonu düzeltildi** - Artık doğru çalışıyor!
+- ✅ **Mutlak yollar kullanıldı** - ./webroot hatası giderildi
+- ✅ **Gelişmiş sensör okuma** - Daha fazla cihazda çalışır
+- ✅ **Daha iyi log sistemi** - Sorun tespiti kolaylaştı
+- ✅ **Arayüz iyileştirmeleri** - Daha kullanıcı dostu
 
 ### English
-- ✨ First stable release
-- 🌙 Automatic brightness boost in dark environments
-- ⚙️ Customizable settings via Magisk Action button
-- 🔒 Only works on lock screen
-- 🔋 Automatically disabled in power saving mode
-- 🌍 Compatible with all devices
+- ✅ **Action button fixed** - Now works correctly!
+- ✅ **Absolute paths used** - ./webroot error fixed
+- ✅ **Improved sensor reading** - Works on more devices
+- ✅ **Better logging system** - Easier troubleshooting
+- ✅ **UI improvements** - More user-friendly
